@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "rafael yoshimitsuy",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nanoid": "^4.0.1"
+  },
+  "type": "module"
 }
